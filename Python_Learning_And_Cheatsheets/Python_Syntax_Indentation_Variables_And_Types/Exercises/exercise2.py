@@ -2,19 +2,12 @@
 Practical Exercise 2: Variables & Data Types
 Task:
 Declare three variables:
-
 num1 (integer)
-
 num2 (float)
-
 text (string)
-
 Perform the following operations:
-
 Add num1 and num2 and store the result in sum_result.
-
 Convert sum_result into an integer and store it in sum_int.
-
 Print all variables with their types using type().
 """
 

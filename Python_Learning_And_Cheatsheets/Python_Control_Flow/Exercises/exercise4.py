@@ -1,11 +1,8 @@
 """
 Problem:
 Write a Python program that:
-
 Repeatedly asks the user to enter a secret code using a while loop.
-
 If the input is correct, print "Access Granted" and exit the loop.
-
 If the input is wrong, print "Wrong code, try again."
 """
 

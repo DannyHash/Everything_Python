@@ -1,11 +1,8 @@
 """
 Problem:
 Write a Python program that:
-
 Asks the user to input a number.
-
 Checks if the number is even or odd.
-
 Prints "Even Number" or "Odd Number" accordingly.
 """
 

@@ -1,13 +1,9 @@
 """
 Task:
 Create a list of integers called numbers (e.g., [5, 12, 3, 21, 8, 17]).
-
 Loop through the list and do the following for each number:
-
 Print the number.
-
 Check if it’s even or odd.
-
 If it’s greater than 10, say "That's a big number!".
 """
 

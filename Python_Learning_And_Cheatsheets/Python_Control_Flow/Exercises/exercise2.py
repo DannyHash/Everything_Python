@@ -1,17 +1,11 @@
 """
 Problem:
 Write a Python program that:
-
 Asks the user to enter a number between 1 and 100.
-
 Categorizes the number into:
-
 "Low" if the number is between 1 and 30
-
 "Medium" if between 31 and 70
-
 "High" if between 71 and 100
-
 If the number is outside this range, print "Out of range!"
 """
 

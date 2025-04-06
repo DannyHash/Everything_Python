@@ -1,11 +1,8 @@
 """
 Problem:
 Write a Python program that:
-
 Asks the user for a positive number N.
-
 Uses a for loop to calculate the sum of all numbers from 1 to N.
-
 Prints the result.
 """
 

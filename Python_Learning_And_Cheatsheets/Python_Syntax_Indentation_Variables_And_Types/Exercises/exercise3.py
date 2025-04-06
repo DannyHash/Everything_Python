@@ -1,19 +1,12 @@
 """
 Task:
 Ask the user for their birth year using input().
-
 Convert the birth year into an integer.
-
 Calculate their age (assume current year is 2025).
-
 Check if the person is:
-
 A teenager (13–19),
-
 An adult (20 and above),
-
 Or too young (below 13).
-
 Print their age and category using a clean output format.
 """
 

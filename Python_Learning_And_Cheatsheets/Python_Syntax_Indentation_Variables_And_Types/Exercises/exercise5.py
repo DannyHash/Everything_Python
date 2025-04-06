@@ -1,24 +1,14 @@
 """
 Write a Python script that:
-
 Takes user's name and birth year via input.
-
 Calculates their age (assume it’s 2025).
-
 Stores a list of random numbers.
-
 Loops through the numbers to:
-
 Print whether each is even/odd.
-
 Count how many numbers are greater than the person’s age.
-
 Use functions to:
-
 Greet the user.
-
 Calculate age.
-
 Analyze the number list.
 """
 
