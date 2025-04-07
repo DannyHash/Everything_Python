@@ -1,12 +1,12 @@
 ### Cheatsheet: Control Flow Tips & Tricks
 
-### 🕵️‍♂️ Quick Rules
+### Quick Rules
 
 - Always end `if`, `for`, `while`, etc., with a colon `:`
 - Code blocks under control flow need **indentation**
 - Boolean logic: `and`, `or`, `not`
 
-### ✨ Shorthand if/else (Ternary)
+### Shorthand if/else (Ternary)
 
 ```python
 x = 5
@@ -14,7 +14,7 @@ y = "Big" if x > 3 else "Small"
 
 ```
 
-### 🚀 Loop with index
+### Loop with index
 
 ```python
 for i, value in enumerate(["a", "b", "c"]):
@@ -22,7 +22,7 @@ for i, value in enumerate(["a", "b", "c"]):
 
 ```
 
-### 🌟 Loop over dictionary
+### Loop over dictionary
 
 ```python
 info = {"name": "Neo", "role": "Hacker"}
@@ -31,7 +31,7 @@ for key, value in info.items():
 
 ```
 
-### 🌧️ Infinite loop trick
+### Infinite loop trick
 
 ```python
 while True:
@@ -41,7 +41,7 @@ while True:
 
 ```
 
-### ✨ else with loops (rarely used, but cool)
+### else with loops (rarely used, but cool)
 
 ```python
 for i in range(5):
