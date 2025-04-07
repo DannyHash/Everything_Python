@@ -18,8 +18,11 @@ scanned_domains = [
     "demo.org",
 ]
 
+# Convert the list to a set to remove duplicates
 unique_domains = set(scanned_domains)
+# Convert the set back to a list and sort it alphabetically
 cleaned_domains = list(unique_domains)
+# Sort the list alphabetically
 cleaned_domains.sort()
 
 print(cleaned_domains)
