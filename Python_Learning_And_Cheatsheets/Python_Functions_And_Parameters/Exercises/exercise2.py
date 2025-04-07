@@ -1,10 +1,7 @@
 """
 Your Task: Write a function called add_payload_sizes that:
-
 Takes two parameters (payload1, payload2) — both numbers
-
 Returns their sum (don’t just print it!)
-
 Store the result in a variable and print it outside the function
 """
 
